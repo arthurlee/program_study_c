@@ -1,1 +1,3 @@
-# program_study_c
+# Description
+Study C programming for children.
+
